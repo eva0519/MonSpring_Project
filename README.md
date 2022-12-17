@@ -37,4 +37,4 @@
 |ElasticSearch|16,368,130|
 |Redis|ExpireTime 1 day : Not Remain|
 
-Google Slide : https://docs.google.com/presentation/d/1GfGGs1gcFe5A7Z5237Y35HammJH8AkTfFNaKlepLnbQ/edit#slide=id.g1b6a4c329c0_1_0
+Google Slide : https://docs.google.com/presentation/d/1GfGGs1gcFe5A7Z5237Y35HammJH8AkTfFNaKlepLnbQ/edit#slide=id.gcb9a0b074_1_0
