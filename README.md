@@ -36,5 +36,8 @@
 |MySQL|16,618,783|
 |ElasticSearch|16,368,130|
 |Redis|ExpireTime 1 day : Not Remain|
-
+<br />
+# 메소드 별 개선 순서에 따른 최소 밀리초 평균  
+![stopwatch](https://user-images.githubusercontent.com/57734102/208287510-e591c73c-8c64-48ee-b836-56bd39749c81.png)
+<br />
 Google Slide : https://docs.google.com/presentation/d/1GfGGs1gcFe5A7Z5237Y35HammJH8AkTfFNaKlepLnbQ/edit#slide=id.gcb9a0b074_1_0
